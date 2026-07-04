@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
