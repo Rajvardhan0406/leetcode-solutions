@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
