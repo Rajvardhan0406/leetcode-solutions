@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0704-binary-search) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
