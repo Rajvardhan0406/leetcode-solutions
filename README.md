@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0399-evaluate-division](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0399-evaluate-division](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Greedy
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Shortest Path
 |  |
 | ------- |
