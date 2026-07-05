@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+## Simulation
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
