@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0399-evaluate-division](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Greedy
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
