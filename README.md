@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1143-longest-common-subsequence](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [2466-count-ways-to-build-good-strings](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
 ## Recursion
 |  |
 | ------- |
