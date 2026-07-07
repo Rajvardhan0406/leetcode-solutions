@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0649-dota2-senate) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0394-decode-string](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
