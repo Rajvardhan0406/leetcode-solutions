@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
+| [1137-n-th-tribonacci-number](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [2466-count-ways-to-build-good-strings](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
 ## Recursion
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
