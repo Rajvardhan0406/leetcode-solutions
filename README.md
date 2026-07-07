@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2542-maximum-subsequence-score](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Counting
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2542-maximum-subsequence-score](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Union-Find
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Simulation
 |  |
 | ------- |
