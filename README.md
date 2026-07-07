@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Greedy
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Heap (Priority Queue)
 |  |
