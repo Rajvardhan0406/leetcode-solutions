@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Two Pointers
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Binary Search
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2542-maximum-subsequence-score](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Counting
 |  |
