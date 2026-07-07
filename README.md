@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0933-number-of-recent-calls](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
 |  |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
