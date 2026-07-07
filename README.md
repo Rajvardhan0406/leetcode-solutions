@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Two Pointers
 |  |
