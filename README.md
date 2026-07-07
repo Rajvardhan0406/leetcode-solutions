@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2466-count-ways-to-build-good-strings](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
 ## Recursion
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
