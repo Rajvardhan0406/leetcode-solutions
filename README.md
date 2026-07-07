@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
