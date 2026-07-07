@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
@@ -221,8 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
