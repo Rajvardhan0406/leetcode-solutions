@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Binary Search
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/Rajvardhan0406/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Counting
 |  |
